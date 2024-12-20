@@ -1,4 +1,4 @@
-const username = "aleksdraka";
+const username = "YOUR_USERNAME";
 
 let followers = [{ username: "", full_name: "" }];
 let followings = [{ username: "", full_name: "" }];
